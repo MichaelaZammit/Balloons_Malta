@@ -28,6 +28,11 @@
                     <img src="cart.png" alt="Cart" width="20" height="auto" href="basket.php">
                 </button>
               </a>
+            <a href="wishlist.php">
+                <button type="button" class="btn">
+                    <img src="heart-solid.svg" alt="whishlist" width="20" height="auto" href="wishlist.php">
+                </button>
+              </a>
         <li class="nav-item">
           <a class="nav-link" href="colums.php">Colums</a>
         </li>

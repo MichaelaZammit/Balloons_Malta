@@ -9,68 +9,70 @@
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+          <h5 class="card-title">Colums</h5>
           <p class="card-text">30 euro</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       </div>
+
+    <br>
 
       <div class="row">
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       <div class="card" style="width: 18rem;">
         <img src="Colums.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Colums</h5>
+          <p class="card-text">30 euro</p>
+          <a href="basket.php" class="btn btn-primary">Add to Cart</a>
         </div>
       </div>
       </div>
