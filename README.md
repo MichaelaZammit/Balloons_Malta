@@ -1,53 +1,53 @@
-#arch.php
+# arch.php
 Products page
 
-#banner.php
+# banner.php
 Products page
 
-#basket.php
+# basket.php
 Products in cart page
 
-#colums.php
+# colums.php
 Products page
 
-#comments.sql
+# comments.sql
 Table for all comments
 
-#connection.php
+# connection.php
 Script where php is connected to phpmyadmin
 
-#footer.php
+# footer.php
 Footer for every page
 
-#functions.php
+# functions.php
 All the functions for the website
 
-#garland.php
+# garland.php
 Product Page
 
-#header.php
+# header.php
 Header and Navbar for every page
 
-#index.php
+# index.php
 Main Page of the website
 
-#login.php
+# login.php
 Login page
 
-#logout.php
+# logout.php
 Logout button
 
-#ornaments.php
+# ornaments.php
 Products page
 
-#products.sql
+# products.sql
 Table of Products
 
-#signup.php
+# signup.php
 Signup page
 
-#users.sql
+# users.sql
 Table of users
 
-#wishlist.sql
+# wishlist.sql
 Table for wishlist
